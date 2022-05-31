@@ -2,7 +2,7 @@
 // Kobbi Biton 318275005
 import java.util.Scanner;
 import java.util.ArrayList;
-public class Targil1 {
+public class BuddyAlgorithem {
 public static Scanner in = new Scanner(System.in);
 public static ArrayList<Process> proList = new ArrayList<Process>();
 public static int mSize;
